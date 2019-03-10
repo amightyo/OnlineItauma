@@ -82,3 +82,5 @@ NumResult2;
 - BWR_BasicQueries.ecl
 
 ### Lab Exercise 5: Filtering Your Data
+In the world of Big Data meaningful information can be achieved with the use of recordset filtering. This gives us a horizontal slice of a bigger piece.
+- BWR_BasicPersonsFilters.ecl
