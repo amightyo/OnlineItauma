@@ -70,7 +70,7 @@ NumResult2 := AddFive();
 NumResult1; //Will instigate a WU.
 NumResult2;
 
-#### Lab Exercise 2: Defining Your Data (Persons)
+#### Lab Exercise 3: Defining Your Data (Persons)
 - Open Persons.ecl
 - Create Record and Dataset  
 - Syntax checking 
@@ -78,4 +78,7 @@ NumResult2;
 - Output a recordset  
 - Loking at raw data
 
-### Output and Aggregate Functions
+### Lab Exercise 4: Output and Aggregate Functions
+- BWR_BasicQueries.ecl
+
+### Lab Exercise 5: Filtering Your Data
