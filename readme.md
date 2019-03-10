@@ -47,7 +47,7 @@ ValueTrue := 1;
 NigerianCount := COUNT(People(IsNigerian));
 SeniorAvgAge := AVE(People(IsSeniorCitizen), People.Age;
 
-3. Set - It declares an expression as s set of values defined within square brackets:
+3. Set - It declares an expression as a set of values defined within square brackets:
 SetTrueFalseValues := [0, 1];
 SetSoutheastStates := ['FL','GA','AL','SC'];
 SetStatusCodes := ['1','X','9'];
@@ -92,3 +92,16 @@ In the world of Big Data meaningful information can be achieved with the use of 
  - Ugly ECL:  
  - Easy optimization:  
  IsYoungFloridaMale.ecl
+
+ ### Lab Exercise 7: Set Definitions
+ A set definition is a set of explicitly declared constant calues or expressions within square brackets (all elements must be the same type)
+
+ SetTrueFalseValues := [0,1]
+
+ - SET definitions  
+ - Review naming conventions  
+ - IMPORT and EXPORT needed  
+ - Defining SETs  
+ - SET function  
+
+ Two ECL files: SetMStates.ecl and SetBureauCodes.ecl
