@@ -113,3 +113,17 @@ In the world of Big Data meaningful information can be achieved with the use of 
 - Filtering  
 
 YoungMaleFloridaPersons.ecl and MeninMStatesPersons.ecl
+
+### Lab Exercise 9: Value Definitions
+- Reuse of Boolean and Set definitions  
+- Use of COUNT  
+- Filtering  
+- Explicit Casting  
+- String Indexing  
+
+<font color='blue'>Exercise Spec: </font>  
+Create value definitions to determine the ratio of men born before 1980 and living in states beginning with 'M' to all men born before 1980 in all states. Do the same thing for females using the same criteria.
+
+BWR_PercentOlderGenderMStates.ecl
+
+
