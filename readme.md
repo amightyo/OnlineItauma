@@ -93,7 +93,7 @@ In the world of Big Data meaningful information can be achieved with the use of 
  - Easy optimization:  
  IsYoungFloridaMale.ecl
 
- ### Lab Exercise 7: Set Definitions
+### Lab Exercise 7: Set Definitions
  A set definition is a set of explicitly declared constant calues or expressions within square brackets (all elements must be the same type)
 
  SetTrueFalseValues := [0,1]
@@ -105,3 +105,11 @@ In the world of Big Data meaningful information can be achieved with the use of 
  - SET function  
 
  Two ECL files: SetMStates.ecl and SetBureauCodes.ecl
+
+### Lab Exercise 8: RecordSet Definitions
+- Create two RecordSet definitions  
+- Reuse of Boolean and Set definitions  
+- IMPORT and EXPORT needed  
+- Filtering  
+
+YoungMaleFloridaPersons.ecl and MeninMStatesPersons.ecl
